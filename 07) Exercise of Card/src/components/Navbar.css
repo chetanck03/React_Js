@@ -1,0 +1,11 @@
+ul{
+    background-color: rgb(43, 43, 38);
+    color: rgb(210, 233, 233);
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    list-style: none;
+}

@@ -1,0 +1,17 @@
+.card{
+  border: 2px solid rgb(224, 152, 152);
+  max-width: 23vw;
+}
+
+.container{
+  display: flex;
+  gap: 34px;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: bisque;
+}
+*{
+  background: black;
+  margin: 0;
+  padding: 0;
+}
