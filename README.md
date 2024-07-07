@@ -16,8 +16,12 @@ This repository contains a step-by-step process for building a complete ReactJS 
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/teambits009/Building-a-Complete-System-Using-ReactJS.-Step-by-Step-Instructions.-`
-2. Follow the step-by-step instructions in the relevant folders.
+1. Clone this repository:
+   ```
+   git clone https://github.com/chetanck03/React_Js.git
+
+   ```
+3. Follow the step-by-step instructions in the relevant folders.
 
 ## Contributing
 
